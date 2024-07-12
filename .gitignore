@@ -1,0 +1,7 @@
+leftImg8bit_trainvaltest/
+gtFine_trainvaltest/
+cityscapes_segmentation_model/
+.ipynb_checkpoints/
+.devcontainer/
+cityscapes_segmentation_model.keras
+cityscapes_segmentation_model.tflite
